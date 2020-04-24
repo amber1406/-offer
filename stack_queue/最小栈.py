@@ -1,5 +1,5 @@
-#!/usr/bin/env python
-# _*_ coding:utf-8 _*_
+#!/usr/bin/env Python
+# coding=utf-8
 class Solution:
     def __init__(self):
         self.stack = []
